@@ -83,8 +83,8 @@ public class MainActivity extends AppCompatActivity implements RadioGroup.OnChec
                         return true;
 
                 }
-        LOG.D
                 return super.onOptionsItemSelected(item);
+        Log.d("TAG","安安")
 
         }
             @Override
